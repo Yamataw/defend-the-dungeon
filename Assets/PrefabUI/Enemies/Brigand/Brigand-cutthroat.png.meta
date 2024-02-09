@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 5e543fb1bd2ec4d4a8db2dc15034e7d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brigand-cutthroat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc939d62c26be40855f2a077bc9c72
+      internalID: -1809964331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f355e8e9bd8ab1468503c1d73eeea21
+      internalID: -1473875324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d03f846e51f844294b16400bdfd229
+      internalID: 272755198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064ecc7b6758af41951ccebb9bf296b
+      internalID: -497132909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f5369a36dbb574f8cc55851e9a727e
+      internalID: 261537772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2e55d20100044f9107727da8cd17a
+      internalID: -1233133198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1172
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be7ceade4e02f4c9c1955257aa1ecc
+      internalID: 876292999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8ca5dde3bf31c4498b8e823b7727c3
+      internalID: 370555364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba0d71f87140ea4e88f81cfe1dea868
+      internalID: 2138573903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c98ef44eb13a5429d275939f670a61
+      internalID: 1602685522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13e04f6f8b0624699c2a34671970fd
+      internalID: -270771844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9261730f39d4ff44ab627ba231b3c84
+      internalID: -1605486582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d5fd1cbe3ad74691fedd3353dfdd7
+      internalID: 161430540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 879
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a9d0ebeef38a4abdd7bb44acdad01
+      internalID: -1981290859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0c962563cc944c9e4eec410f46761
+      internalID: 1015363042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a72fef8c85b67b40abcb481f9db58e2
+      internalID: -1664479684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627fc9e4111175e47bba9a4347f42416
+      internalID: -691532672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206c68a5671ff944bbf8f0750d57a34
+      internalID: -742654359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_18
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e64e57f4ceed041b7331af575050ec
+      internalID: 526255355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_19
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d69f9bec7d444e90dfd35044ded7b
+      internalID: -114089318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 586
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030a3b4bd2b93e448adaa9a15ae2db8b
+      internalID: 504983160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82052fb48ece9014a8039c3177d74c9c
+      internalID: -562350443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b407c346d3754ba0b43df930b7f0c
+      internalID: 1080717285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68485eaf33145bc4a89ca3e0e32c8e1c
+      internalID: -209865719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de348b52d47a44fbe04fd409b766e0
+      internalID: 896605242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_25
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf13ac219c5f641be4dc53254d720e
+      internalID: -927378793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_26
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67220caf4b4dc9428815bd40d7e0ff9
+      internalID: 1648277151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_27
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 293
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5caea52cbfc4e04ebdc0b9a74a86337
+      internalID: -32629534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f10660ad6b0fa4b8020a0c31eaad06
+      internalID: -335818150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde78d09cd885e4aa2c1b0dd054344b
+      internalID: 1032612145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9bff738afb6947bcc36895386b9e2
+      internalID: 54863126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b56b14db5c3af48bf4f286f278873e
+      internalID: 511678469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_32
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a77744fc9a1094a8e273e29cc3f35d
+      internalID: -765488648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_33
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e386117cb7a55240a6e930818d48541
+      internalID: 800146386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brigand-cutthroat_34
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 177
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b1610414f6a84787734656737525c
+      internalID: 920998433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Brigand-cutthroat_0: -1809964331
+      Brigand-cutthroat_1: -1473875324
+      Brigand-cutthroat_10: -270771844
+      Brigand-cutthroat_11: -1605486582
+      Brigand-cutthroat_12: 161430540
+      Brigand-cutthroat_13: -1981290859
+      Brigand-cutthroat_14: 1015363042
+      Brigand-cutthroat_15: -1664479684
+      Brigand-cutthroat_16: -691532672
+      Brigand-cutthroat_17: -742654359
+      Brigand-cutthroat_18: 526255355
+      Brigand-cutthroat_19: -114089318
+      Brigand-cutthroat_2: 272755198
+      Brigand-cutthroat_20: 504983160
+      Brigand-cutthroat_21: -562350443
+      Brigand-cutthroat_22: 1080717285
+      Brigand-cutthroat_23: -209865719
+      Brigand-cutthroat_24: 896605242
+      Brigand-cutthroat_25: -927378793
+      Brigand-cutthroat_26: 1648277151
+      Brigand-cutthroat_27: -32629534
+      Brigand-cutthroat_28: -335818150
+      Brigand-cutthroat_29: 1032612145
+      Brigand-cutthroat_3: -497132909
+      Brigand-cutthroat_30: 54863126
+      Brigand-cutthroat_31: 511678469
+      Brigand-cutthroat_32: -765488648
+      Brigand-cutthroat_33: 800146386
+      Brigand-cutthroat_34: 920998433
+      Brigand-cutthroat_4: 261537772
+      Brigand-cutthroat_5: -1233133198
+      Brigand-cutthroat_6: 876292999
+      Brigand-cutthroat_7: 370555364
+      Brigand-cutthroat_8: 2138573903
+      Brigand-cutthroat_9: 1602685522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

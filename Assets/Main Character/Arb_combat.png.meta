@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ef2eef0e972b61c4a80cce93ebc35425
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arb_combat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a6f7de7bbf554bba9032afc9309e9
+      internalID: -700875719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e17dfe725bbf4a9e0e8198401909e
+      internalID: 1302494206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6d14b86a80ea4298457ee565acae5
+      internalID: -1803409080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b60808c473234daeb6d919d9b27e4
+      internalID: 1101674457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c139b1e698ed44eba0abdcde33e254
+      internalID: 771194477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5e718d7bb1994a979146ed099e9c8
+      internalID: 1289236320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_6
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1208
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756264e3d15093b42ac736e305ad9b3a
+      internalID: -991774340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92613e512a3f0b4c8c249386715c73e
+      internalID: 1002639977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5bb8537d693446883ffea50d14142
+      internalID: 1548215394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edf1f9048c21ac429cf1e52fbffc135
+      internalID: -1610295823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c828a5dc43c74590393210cc5342d
+      internalID: 140011107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532fc38c16191f14c82f22f369bd68f5
+      internalID: 886376314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_12
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc71086d8bb0d4f9372928a718dd6d
+      internalID: 1484882169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_13
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 906
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007677e5960284c47bbf7c47bf68b1b8
+      internalID: 1876676353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4036378bc0e7a4c8cd1a2ee40f848a
+      internalID: -895038486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5179a21a5d9b5b44399a051c2e0231e0
+      internalID: 1188468953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95720eaf983a9bd4e8c011448848fc15
+      internalID: 283096546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e53c6c67c65c48aa8cca1c37c8c56
+      internalID: 2133506889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a88b4db7e8ec48b8aa230a5c17f80
+      internalID: -1977805111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_19
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2bb040f144c345a020a2de1c3a646
+      internalID: -815472651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_20
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 604
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19973d458587f9743947982786c894e2
+      internalID: 1255436482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850b8ba6bf983a499668bd40061f631
+      internalID: -1431252101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c768f54df44bc48a01e849af34a0b5
+      internalID: 542294196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10a4d447ed6f64aa889ea639ac88b3
+      internalID: -1393769971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_24
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0371ce8237391a41a1c42cc7c6c1026
+      internalID: 1728986970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_25
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73885fbcbf4f3cd4da7f129ccca2cbdb
+      internalID: -110874379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_26
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806d07e26e4e9a45b54f26bb2a51337
+      internalID: 517021735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_27
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 302
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845f0b98c8916d4e8b7003d6588131c
+      internalID: 588990057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7efcc82a4d3c02448ec25c8102108a3
+      internalID: 328956249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b71f3db65105248ae8df65fca860ea
+      internalID: 2128802598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4b906da0de464c9005f59bed9ed80
+      internalID: 1019722216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b8bed9a370174eb017bdac685d818
+      internalID: 219398878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b2c4fcb730ea4fa4f6a6173fc0d44
+      internalID: -1371170054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_33
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4a9140ea61094494a7cdbe8b243e1
+      internalID: 852555119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_combat_34
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79415b064334ef448b7cb91937f98cfa
+      internalID: 730083420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arb_combat_0: -700875719
+      Arb_combat_1: 1302494206
+      Arb_combat_10: 140011107
+      Arb_combat_11: 886376314
+      Arb_combat_12: 1484882169
+      Arb_combat_13: 1876676353
+      Arb_combat_14: -895038486
+      Arb_combat_15: 1188468953
+      Arb_combat_16: 283096546
+      Arb_combat_17: 2133506889
+      Arb_combat_18: -1977805111
+      Arb_combat_19: -815472651
+      Arb_combat_2: -1803409080
+      Arb_combat_20: 1255436482
+      Arb_combat_21: -1431252101
+      Arb_combat_22: 542294196
+      Arb_combat_23: -1393769971
+      Arb_combat_24: 1728986970
+      Arb_combat_25: -110874379
+      Arb_combat_26: 517021735
+      Arb_combat_27: 588990057
+      Arb_combat_28: 328956249
+      Arb_combat_29: 2128802598
+      Arb_combat_3: 1101674457
+      Arb_combat_30: 1019722216
+      Arb_combat_31: 219398878
+      Arb_combat_32: -1371170054
+      Arb_combat_33: 852555119
+      Arb_combat_34: 730083420
+      Arb_combat_4: 771194477
+      Arb_combat_5: 1289236320
+      Arb_combat_6: -991774340
+      Arb_combat_7: 1002639977
+      Arb_combat_8: 1548215394
+      Arb_combat_9: -1610295823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

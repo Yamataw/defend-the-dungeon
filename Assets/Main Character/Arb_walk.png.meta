@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 1f6cb88be2c2d164abc426ecf1406bce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arb_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9623b539919147479257dbf9a69450e
+      internalID: 1369182882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aefb5e23a7864448a910b3b0cdab2af
+      internalID: -580871909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee212c7d3446504985fcab7018e885e
+      internalID: 1552128467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a851427c1728114b89bb66cfe1917e0
+      internalID: 406451746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b290729402243ef4fa0e47df1995b7a4
+      internalID: 754001133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cda80fe48b3894186d7918d340e475
+      internalID: -1343905065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1276
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe94a94c628aae54fba12b9aef810758
+      internalID: -1110540264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e7a18f1ae87645a4e6f0198542acc
+      internalID: 1051389108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13c35b82cd67f4098446c16fcfc52f
+      internalID: 1637963096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8099b8a4b88f2043b52efda4bb33f4b
+      internalID: -1887643284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d2727e095abf41815506fed954714
+      internalID: -1378150645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29f6566f3c3e74fa7aadfca3c89ed6
+      internalID: 1461816923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_12
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d1d2147f96fd44f9c26df1c5ebf010
+      internalID: 1895761799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 957
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbd62f2ac26584c98d397973e4a0bb
+      internalID: -736186115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1831b80d24210f64b8d1435125b9b904
+      internalID: -1132771014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290953aa1dfb1a345833af90696e5cc2
+      internalID: -138804060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366255b934b3954198fb5b4342a4b1d
+      internalID: 598558977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278288f87499c144b02b4d222bf5b00
+      internalID: 1781310132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180e3e2a73a118419f94ca8a5d2e961
+      internalID: 1044685412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d50651cd91e2e47ae027a0d249bad7
+      internalID: -1520383970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 638
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eca5b047ac87c4ea123d4092349f84
+      internalID: 1721505967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898c13a5dd9cec46996a104e660ec2a
+      internalID: 1996320080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f391eca00173449ae029430b047d42
+      internalID: -589577173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff0ab33d85f494791883b96dc3616f
+      internalID: 1583311762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a61dcde85e191439c43100edd1c332
+      internalID: 623035003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b8d7192136cc94180dfde22f1d7ccf
+      internalID: -167858456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fff0e6acd58b3489f75fb790347bed
+      internalID: 506428489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_27
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 319
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ee9ba5afcb2a48981e9ff630eccec
+      internalID: -919373003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5f66520e6db342b0159b416895a35
+      internalID: -2039040308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e61266b17a0b4a86066c7b7a77b3f
+      internalID: -799800722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8183da8e4c8d74fbd4685c4aa071c3
+      internalID: -654511074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750bff2b4409baa48837ea6d76f35fee
+      internalID: 1796988168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92b0957fe46ce4dbeead765615c57f
+      internalID: 1798878859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_33
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6349337377e740a91e5dfd9296709
+      internalID: -1590480037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arb_walk_34
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5300461e8421e49985e53174240219
+      internalID: -888140264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arb_walk_0: 1369182882
+      Arb_walk_1: -580871909
+      Arb_walk_10: -1378150645
+      Arb_walk_11: 1461816923
+      Arb_walk_12: 1895761799
+      Arb_walk_13: -736186115
+      Arb_walk_14: -1132771014
+      Arb_walk_15: -138804060
+      Arb_walk_16: 598558977
+      Arb_walk_17: 1781310132
+      Arb_walk_18: 1044685412
+      Arb_walk_19: -1520383970
+      Arb_walk_2: 1552128467
+      Arb_walk_20: 1721505967
+      Arb_walk_21: 1996320080
+      Arb_walk_22: -589577173
+      Arb_walk_23: 1583311762
+      Arb_walk_24: 623035003
+      Arb_walk_25: -167858456
+      Arb_walk_26: 506428489
+      Arb_walk_27: -919373003
+      Arb_walk_28: -2039040308
+      Arb_walk_29: -799800722
+      Arb_walk_3: 406451746
+      Arb_walk_30: -654511074
+      Arb_walk_31: 1796988168
+      Arb_walk_32: 1798878859
+      Arb_walk_33: -1590480037
+      Arb_walk_34: -888140264
+      Arb_walk_4: 754001133
+      Arb_walk_5: -1343905065
+      Arb_walk_6: -1110540264
+      Arb_walk_7: 1051389108
+      Arb_walk_8: 1637963096
+      Arb_walk_9: -1887643284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

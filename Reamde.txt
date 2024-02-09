@@ -1,0 +1,11 @@
+Maxime HENRI
+Début du projet le Jeudi après-midi
+Je n'ai jamais fait de Unity avant.
+Le jeu peut d'ailleurs intégrer facilement de nouveux monstres et des évolutions, les fichier data existent mais pas implémentés.
+C'est normal qu'il n'y ait pas de victoire et que des "défaites", le but est de survivre le plus longtemps.
+
+
+Le but est de se déplacer entre les layers avec Z et S ou (W et S), et de viser les ennemis sur les mêmes layers.
+
+
+https://github.com/Yamataw/defend-the-dungeon
